@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=460a643e_002D06e4_002D40b8_002D8709_002D3fccaca77656/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Polynomial_A_Constructor" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7893F716-001C-466F-AC78-F6CC7C6AA082::.NETCoreApp,Version=v3.1::TestReducto.Polynomial_A_Constructor&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7893F716-001C-466F-AC78-F6CC7C6AA082::.NETCoreApp,Version=v3.1::TestReducto.Polynomial_C_Add&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7893F716-001C-466F-AC78-F6CC7C6AA082::.NETCoreApp,Version=v3.1::TestReducto.Polynomial_D_BinaryMinus&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7893F716-001C-466F-AC78-F6CC7C6AA082::.NETCoreApp,Version=v3.1::TestReducto.Polynomial_E_Mult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7893F716-001C-466F-AC78-F6CC7C6AA082::.NETCoreApp,Version=v3.1::TestReducto.Polynomial_F_Div&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7893F716-001C-466F-AC78-F6CC7C6AA082::.NETCoreApp,Version=v3.1::TestReducto.Polynomial_G_Pow&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
